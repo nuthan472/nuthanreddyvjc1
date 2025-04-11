@@ -13,7 +13,7 @@ const Germany = () => {
       fontFamily:'Times New Roman',
       position: 'relative',
       fontSize: "16px", // reduced font size
-        lineHeight: "2.6", 
+       
 overflow: 'hidden',
     }}>
     <div style={{marginBottom: '30px' }}></div>
@@ -21,7 +21,7 @@ overflow: 'hidden',
         Germany Blue Card Visa: Your Path to Work and Live in Germany
       </h2>
 
-      <p>
+      <p className="mt-8">
         Germany, a global leader in innovation, technology, and culture, attracts skilled professionals from around the world. The <strong>Germany Blue Card</strong> is a special residence permit designed for highly qualified workers who wish to live and work in Germany. If you are looking to advance your career, experience rich cultural heritage, and enjoy an excellent quality of life — this visa is your gateway.
       </p>
 

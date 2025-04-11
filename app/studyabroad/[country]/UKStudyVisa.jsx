@@ -2,8 +2,8 @@ import React from "react";
 
 const UKStudyGuide = () => {
   return (
-    <div className="p-6 max-w-5xl mx-auto text-justify">
-      <h1 className="text-2xl md:text-3xl font-bold text-blue-500 mb-4" style={{ fontFamily: 'Times New Roman' }}>
+    <div className="max-w-4xl mx-auto px-3 py-8" style={{ fontFamily: 'Times New Roman, serif' }}>
+      <h1 className="text-3xl font-bold mb-4">
         Study in the UK: A Comprehensive Guide to UK Study Visas, Universities, Fees, and Admission Process
       </h1>
 
@@ -11,7 +11,7 @@ const UKStudyGuide = () => {
         The UK has long been a favourite destination for international students seeking world-class education, cultural diversity, and outstanding career opportunities. With its rich history, vibrant cities, and renowned institutions, it’s no wonder that the UK remains one of the top choices for students worldwide. If you’re considering studying in the UK, this guide provides an overview of the UK study visa process, some top universities, their fee structures, and the admission process to help you navigate your journey from application to graduation.
       </p>
 
-      <h2 className="text-2xl font-bold text-blue-500 mt-6 mb-3" style={{ fontFamily: 'Times New Roman' }}>
+      <h2 className="text-2xl font-bold text-black mt-6 mb-3" style={{ fontFamily: 'Times New Roman' }}>
         UK Study Visa: An Overview
       </h2>
       <ol className="list-decimal pl-6 space-y-2" style={{ fontFamily: 'Times New Roman' }}>

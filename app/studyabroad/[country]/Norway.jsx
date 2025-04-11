@@ -2,9 +2,9 @@ import React from "react";
 
 const StudyInNorway = () => {
   return (
-    <div className="p-6 max-w-5xl mx-auto text-justify">
-      <h1 className="text-3xl font-bold text-center" style={{ fontFamily: 'Times New Roman' }}>
-        Study in Norway with <span style={{ color: 'orange' }}>VJC Overseas</span>: Affordable Education, World-Class Opportunities
+    <div className="max-w-4xl mx-auto px-3 py-8" style={{ fontFamily: 'Times New Roman, serif' }}>
+      <h1 className="text-3xl font-bold mb-4">
+        Study in Norway with <span className="text-orange-500">VJC Overseas</span>: Affordable Education, World-Class Opportunities
       </h1>
       <p className="mt-4 text-lg" style={{ fontFamily: 'Times New Roman' }}>
         Norway is not only known for its breathtaking landscapes and high standard of living, but it also offers exceptional education that attracts students from all over the world. If you're considering studying abroad, Norway should be on your radar. <span style={{ color: 'orange' }}>VJC Overseas</span> specializes in helping students navigate the process of studying in Norway by providing comprehensive guidance on everything from university fees to the unique benefits of living and learning in this Scandinavian country.

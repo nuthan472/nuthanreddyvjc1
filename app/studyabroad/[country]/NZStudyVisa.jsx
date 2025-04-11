@@ -2,8 +2,8 @@ import React from "react";
 
 const NewZealand = () => {
   return (
-    <div className="p-6 max-w-5xl mx-auto text-justify font-[Times New Roman]">
-      <h1 className="text-3xl font-bold mb-4 text-orange-500">New Zealand Student Visa</h1>
+    <div className="max-w-4xl mx-auto px-3 py-8 text-justify text-lg leading-relaxed" style={{ fontFamily: 'Times New Roman, serif' }}>
+      <h1 className="text-3xl font-bold mb-6">New Zealand Student Visa</h1>
 
       <h2 className="text-2xl font-semibold mb-3">Study in New Zealand – Your Path to a World-Class Education</h2>
       <p className="mb-4">

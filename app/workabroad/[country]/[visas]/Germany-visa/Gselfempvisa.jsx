@@ -11,7 +11,7 @@ const Content = () => {
             position: 'relative',
       overflow: 'hidden',
           }}>
-          <div style={{marginBottom: '40px' }}>
+          <div style={{marginBottom: '30px' }}>
       <h3 className="text-2xl font-semibold text-black text-center">
         Germany Self Employment Visa - <span style={{ color: 'rgb(220, 4, 4)' }}>VJC Overseas</span>
       </h3>

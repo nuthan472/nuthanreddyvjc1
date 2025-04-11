@@ -2,8 +2,8 @@ import React from 'react';
 
 const HongKongStudentVisa = () => {
   return (
-    <div className="p-6 max-w-5xl mx-auto text-justify text-black font-[\'Times New Roman\']">
-      <h1 className="text-3xl md:text-4xl font-bold mb-6">Hong Kong Student Visa: Your Gateway to Studying in a Global Education Hub</h1>
+    <div className="max-w-4xl mx-auto px-3 py-8" style={{ fontFamily: 'Times New Roman, serif' }}>
+      <h1 className="text-3xl font-bold mb-4">Hong Kong Student Visa: Your Gateway to Studying in a Global Education Hub</h1>
       <p className="mb-4">Studying in Hong Kong offers a unique opportunity to experience world-class education in one of the most dynamic cities in Asia. Whether you're pursuing undergraduate, postgraduate, or language studies, a Hong Kong Student Visa is your ticket to a truly international academic experience.</p>
       <h2 className="text-2xl font-semibold mt-8 mb-4">Why Choose Hong Kong for Your Education?</h2>
       <p className="mb-4">Hong Kong is known for its high academic standards, with several universities ranking among the top globally. The city is a vibrant blend of East meets West, offering a rich cultural experience, cutting-edge research opportunities, and a thriving international student community. With a diverse range of study programs and courses, Hong Kong offers something for every student aiming for a successful future.</p>

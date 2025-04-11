@@ -2,8 +2,8 @@ import React from 'react';
 
 const UAEStudentVisa = () => {
   return (
-    <div className="p-6 max-w-5xl mx-auto text-justify font-[Times New Roman]">
-      <h1 className="text-3xl font-bold mb-6">UAE Student Visa – Your Gateway to World-Class Education</h1>
+    <div className="max-w-4xl mx-auto px-3 py-8" style={{ fontFamily: 'Times New Roman, serif' }}>
+      <h1 className="text-3xl font-bold mb-4">UAE Student Visa – Your Gateway to World-Class Education</h1>
       <p>
         Studying in the United Arab Emirates (UAE) offers an unparalleled opportunity to experience an innovative and diverse educational environment, surrounded by state-of-the-art infrastructure and rich cultural experiences. Whether you’re aiming to study at one of the top universities in the region or pursuing a specialized course, <span className="text-orange-500 font-semibold">VJC Overseas</span> is here to guide you through the process of securing your UAE Student Visa and ensuring your smooth transition to a vibrant academic life.
       </p>

@@ -2,15 +2,15 @@ import React from "react";
 
 const CanadaStudentVisa = () => {
   return (
-    <div className="p-6 max-w-5xl mx-auto text-justify">
-      <h1 className="text-3xl font-bold mb-4 text-blue-600" style={{ fontFamily: 'Times New Roman' }}>
+    <div className="max-w-4xl mx-auto px-3 py-8" style={{ fontFamily: 'Times New Roman, serif' }}>
+      <h1 className="text-3xl font-bold mb-4">
         Canada Student Visa: Your Pathway to World-Class Education
       </h1>
       <p className="mb-4" style={{ fontFamily: 'Times New Roman' }}>
         Canada is a top destination for international students, offering a high standard of education, a welcoming multicultural environment, and numerous opportunities for career growth. If you’re planning to study in Canada, obtaining a Canada Student Visa (Study Permit) is an essential step. <span className="text-orange-600">VJC Overseas</span> guides you through the process, ensuring a smooth and successful application journey.
       </p>
 
-      <h2 className="text-2xl font-semibold mb-2 text-blue-600" style={{ fontFamily: 'Times New Roman' }}>
+      <h2 className="text-2xl font-semibold mb-2 text-black" style={{ fontFamily: 'Times New Roman' }}>
         Canada Student Visa: Basic Eligibility Criteria
       </h2>
       <ul className="list-decimal pl-6 mb-4 space-y-2" style={{ fontFamily: 'Times New Roman' }}>

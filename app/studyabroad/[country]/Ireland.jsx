@@ -2,8 +2,8 @@ import React from "react";
 
 const StudyInIreland = () => {
   return (
-    <div className="p-6 max-w-4xl mx-auto" style={{ fontFamily: "Times New Roman" }}>
-      <h1 className="text-4xl font-bold text-center mb-6">
+    <div className="max-w-4xl mx-auto px-3 py-8" style={{ fontFamily: 'Times New Roman, serif' }}>
+      <h1 className="text-3xl font-bold mb-4">
         Study in <span className="text-orange-500">Ireland</span> – <span className="text-orange-500">VJC Overseas</span>
       </h1>
       <p className="text-lg mb-4">

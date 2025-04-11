@@ -2,7 +2,7 @@ import React from "react";
 
 const USAStudyVisa = () => {
   return (
-    <div className="max-w-4xl mx-auto px-4 py-10" style={{ fontFamily: 'Times New Roman, serif' }}>
+    <div className="max-w-4xl mx-auto px-3 py-8" style={{ fontFamily: 'Times New Roman, serif' }}>
       <h1 className="text-3xl font-bold mb-4">USA Study Visa Information – <span className="text-orange-500">VJC Overseas</span></h1>
 
       <p className="mb-4">

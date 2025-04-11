@@ -2,9 +2,8 @@ import React from 'react';
 
 const GermanyStudyVisa = () => {
   return (
-    <div className="p-6 max-w-5xl mx-auto text-justify">
-      <div className="text-[Times New Roman, serif] text-base md:text-lg leading-7 text-justify space-y-4">
-        <h1 className="text-3xl font-bold mb-4">
+    <div className="max-w-4xl mx-auto px-3 py-8" style={{ fontFamily: 'Times New Roman, serif' }}>
+      <h1 className="text-3xl font-bold mb-4">
           Germany Study Visa - <span className="text-orange-500">VJC Overseas</span>
         </h1>
 
@@ -101,7 +100,7 @@ const GermanyStudyVisa = () => {
           For more information on the study visa process, eligibility, and support for studying in Germany, contact <span className="text-orange-500">VJC Overseas</span> today!
         </p>
       </div>
-    </div>
+ 
   );
 };
 

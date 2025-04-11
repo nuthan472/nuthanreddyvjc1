@@ -28,6 +28,7 @@ import Ireland from "./Ireland";
 import Netherland from "./Netherland";
 import Lux from "./Lux";
 import Dubai from "./Dubai";
+import Denmark from "./Denmark";
 
 const visaData = [
   { name: "Study in USA", path: "/studyabroad/usa", image: "/usa1.jpg" ,component:"./USAStudyVisa"},
@@ -195,6 +196,8 @@ const Migrate = () => {
     <Lux />
   ) : selectedVisa.name === "Study in Dubai" ? (
     <Dubai />
+  ) : selectedVisa.name === "Study in Denmark" ? (
+    <Denmark />
   ) : (
     <div className="text-gray-700 text-lg leading-relaxed">
       Please select a visa type from the left to view more details.

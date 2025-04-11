@@ -3,8 +3,8 @@ export default function GermanyJobseekerVisa() {
   return (
     <div
       style={{
-        fontFamily: "'Times New Roman', Times, serif",
-        padding: "40px",
+        fontFamily: "Times New Roman",
+        padding: "50px",
         lineHeight: "1.6",
         fontSize: "16px",
       }}
