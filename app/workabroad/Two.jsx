@@ -88,12 +88,12 @@ const Migrate = () => {
       <main className="w-full bg-white">
         {/* Hero Section */}
         <motion.div
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          transition={{ duration: 1 }}
-          className="w-full h-[90vh] sm:min-h-[90vh] bg-cover bg-center relative flex items-center justify-center"
-          style={{ backgroundImage: "url('/harsh.jpg')" }}
-        >
+    initial={{ opacity: 0 }}
+    animate={{ opacity: 1 }}
+    transition={{ duration: 1 }}
+    className="w-screen h-screen bg-cover bg-center bg-no-repeat relative flex items-center justify-center"
+    style={{ backgroundImage: "url('/harsh.jpg')" }}
+  >
           <div className="absolute inset-0 bg-black/30" />
           <div className="relative z-10 text-center text-white px-6">
         

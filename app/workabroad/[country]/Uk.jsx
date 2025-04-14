@@ -2,8 +2,8 @@ import React from 'react';
 
 const UKWorkPermit = () => {
   return (
-    <div className="p-6 sm:p-12" style={{ fontFamily: 'Times New Roman', fontSize: '18px', whiteSpace: 'pre-line' }}>
-      <h1 className="text-3xl font-bold mb-4">UK Work Permit Visa – Your Gateway to a Bright Future in the UK</h1>
+    <div className="max-w-4xl mx-auto px-3 py-8" style={{ fontFamily: 'Times New Roman, serif' }}>
+     <h1 className="text-3xl font-bold mb-4 text-center">UK Work Permit Visa – Your Gateway to a Bright Future in the UK</h1>
 
       <p>
         Are you looking to work and build a successful career in the United Kingdom?. 

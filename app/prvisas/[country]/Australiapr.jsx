@@ -2,13 +2,13 @@ import React from "react";
 
 const AustraliaPRVisa = () => {
   return (
-    <div style={{ fontFamily: "Times New Roman", padding: "20px" }}>
+    <div className="text-gray-800 space-y-6 text-lg leading-relaxed" style={{fontFamily:'Times new Roman'}}>
       <h1 className="text-2xl md:text-2xl font-semibold text-gray-900">
         Australia Permanent Residency Visa: Your Pathway to a Bright Future Down
         Under
       </h1>
       <h2>
-        Welcome to <span style={{ color: "orange" }}>VJC Overseas</span>, your
+        Welcome to <span className="text-orange-500" font-semibold>VJC Overseas</span>, your
         trusted partner in obtaining Australia Permanent Residency (PR).
       </h2>
       <p>
@@ -26,7 +26,7 @@ const AustraliaPRVisa = () => {
         apply for Australian citizenship.
       </p>
       <p>
-        <span style={{ color: "orange" }}>VJC Overseas</span> helps guide you
+        <span className="text-orange-500">VJC Overseas</span> helps guide you
         through the visa application process, ensuring you meet all necessary
         requirements to secure your PR status.
       </p>
@@ -63,11 +63,11 @@ const AustraliaPRVisa = () => {
         <li>Social Security Benefits</li>
         <li>Pathway to Citizenship</li>
       </ul>
-      <h2>How <span style={{ color: "orange" }}>VJC Overseas</span> Can Help</h2>
+      <h2>How <span className="text-orange-500">VJC Overseas</span> Can Help</h2>
       <p>
         Navigating the Australia PR visa process can be complex, with multiple
         visa pathways, including skilled migration, family sponsorship, and
-        employer-sponsored visas. At <span style={{ color: "orange" }}>VJC Overseas</span>, we simplify the process by
+        employer-sponsored visas. At <span className="text-orange-500">VJC Overseas</span>, we simplify the process by
         providing expert advice, step-by-step assistance, and ensuring that
         your application meets the strict requirements set by the Australian
         Department of Home Affairs.
@@ -75,7 +75,7 @@ const AustraliaPRVisa = () => {
       <h2>Get Started Today</h2>
       <p>
         Don’t wait any longer to take the next step towards your Australia
-        Permanent Residency. Contact <span style={{ color: "orange" }}>VJC Overseas</span> today to schedule a free
+        Permanent Residency. Contact <span className="text-orange-500">VJC Overseas</span> today to schedule a free
         consultation. Let us help you unlock the doors to a prosperous future
         in one of the world’s most sought-after countries.
       </p>

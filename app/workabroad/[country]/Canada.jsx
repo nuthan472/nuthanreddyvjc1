@@ -2,9 +2,8 @@ import React from "react";
 
 const GermanyWorkVisa = () => {
   return (
-    <div style={{ fontFamily: 'Times New Roman, serif', padding: '2rem', lineHeight: '1.8', fontSize: '1.1rem' }}>
-
-  <h1 className="text-3xl font-bold mb-4">
+    <div className="max-w-4xl mx-auto px-4 py-8" style={{ fontFamily: 'Times New Roman, serif' }}>
+     <h1 className="text-3xl font-bold mb-4 text-center">
      Germany Work Visa: Your Gateway to a Bright Future in Germany- <span className="text-orange-500 font-bold"> VJC Overseas</span>
   </h1>
   <p className="mb-4">

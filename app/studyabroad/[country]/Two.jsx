@@ -34,7 +34,7 @@ const visaData = [
   { name: "Study in USA", path: "/studyabroad/usa", image: "/usa1.jpg" ,component:"./USAStudyVisa"},
   { name: "Study in Uk", path: "/studyabroad/uk", image: "/uk1.webp" },
   { name: "Study in Canada", path: "/studyabroad/canada", image: "/canada1.jpg" },
-  { name: "Study in Australia", path: "/studyabroad/australia", image: "/aus1.jpg" },
+  { name: "Study in Australia", path: "/studyabroad/australia", image: "/study-in-australia-flag.jpg" },
   { name: "Study in Germany", path: "/studyabroad/germany", image: "/germany.jpg" },
   { name: "Study in Italy", path: "/studyabroad/italy", image: "/itlay.jpg" },
   { name: "Study in France", path: "/studyabroad/france", image: "/france.jpg" },
@@ -49,9 +49,9 @@ const visaData = [
   { name: "Study in Netherlands", path: "/studyabroad/netherlands", image: "/net.webp" },
   { name: "Study in Switzerland", path: "/studyabroad/switerland", image: "/sw.webp" },
   { name: "Study in Denmark", path: "/studyabroad/denmark", image: "/de.jpg" },
-  { name: "Study in Dubai", path: "/studyabroad/Dubai", image: "/du.webp" },
+  { name: "Study in Dubai", path: "/studyabroad/dubai", image: "/du.webp" },
   { name: "Study in Luxembourg", path: "/studyabroad/luxembourg", image: "/lux.jpg" },
-  { name: "Study in Hongkong", path: "/studyabroad/hongkong", image: "/hk.jpg" },
+  { name: "Study in Hongkong", path: "/studyabroad/hongkong", image: "/study-in-hongkong-flag.jpg" },
   { name: "Study in UAE", path: "/studyabroad/uae", image: "/ua.jpg" },
   { name: "Study in Norway", path: "/studyabroad/norway", image: "/norwaystudy.avif" },
   { name: "Study in Sweden", path: "/studyabroad/sweden", image: "/swedenstudy.jpg" },
@@ -145,8 +145,8 @@ const Migrate = () => {
 
 {/* Visa Info Content Box */}
 <div
-  className="w-full md:w-2/3 p-4 md:p-6 rounded-xl border border-gray-300 shadow-md relative"
-  style={{ maxHeight: "700px", minHeight: "1550px", overflowY: "auto" }}
+  className="w-full md:w-2/3 p-4 md:p-6 rounded-xl border border-gray-300 shadow-md relative mt-6 md:-mt-24"
+  style={{ maxHeight: "700px", minHeight: "1650px", overflowY: "auto" }}
 >
   {selectedVisa.name === "Study in USA" ? (
     <USAStudyVisa />
