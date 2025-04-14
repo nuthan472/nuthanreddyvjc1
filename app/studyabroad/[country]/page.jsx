@@ -47,6 +47,16 @@ const metaData = {
     keywords:"best immigration consultants in hyderabad, immigration consultants, best immigration consultants in bangalore, new zealand study visa, study abroad new zealand, study in new zealand, new zealand pr, study abroad consultants,newzealand visa ,immigration new zealand, new zealand entry visa, new zealand university,best university in new zealand, abroad education consultants,study abroad consultants near me",
     description: "Begin your study abroad journey in New Zealand with VJC Overseas. Expert guidance on top universities, visas, scholarships, and admission support.",
   },
+  poland: {
+    title: "Study in Poland with VJC Overseas | Trusted Study Abroad Experts",
+    keywords:"study abroad poland ,study in poland,poland student visa,poland universities,best universities in poland,, abroad education consultants, foreign education consultants,national visa, schengen visa, schengen visa application, poland immigration,polish universities,best immigration consultants in Hyderabad,best immigration consultants in Bangalore, immigration consultants",
+    description: "Begin your study abroad journey in Poland with VJC Overseas. Get expert guidance on top universities, student visas, scholarships, and admissions process.",
+  },
+  france: {
+    title: "Study in France | VJC Overseas – Top Consultants in India",
+    keywords:"study in France,France student visa,top universities in France,France education consultants,masters in France,best immigration consultants in Hyderabad ,best immigration consultants in Bangalore,France student visa requirements,France study visa process ,study abroad in France,study bachelor in France,courses in France for international students,best universities in France,schengen visa,uniform schengen visa",
+    description: "Study in France with VJC Overseas – expert help for 2025 admissions, top universities, courses, scholarships & visa support. Talk to our Experts.",
+  },
 
 };
 
