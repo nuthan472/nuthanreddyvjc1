@@ -4,7 +4,7 @@ const StudyInItaly = () => {
   return (
     <div className="max-w-6xl mx-auto px-4 py-10 -mt-10" style={{ fontFamily: 'Times New Roman, serif' }}>
       <h1 className="flex justify-center text-xl sm:text-2xl md:text-2xl font-bold mb-8 text-center">
-        Study in Itlay - <span className="text-orange-500">&nbsp;VJC Overseas</span>
+        Study in Italy - <span className="text-orange-500">&nbsp;VJC Overseas</span>
       </h1>
       <div className="flex flex-col md:flex-row items-center gap-10 mb-10">
       <div className="w-full md:w-2/3">

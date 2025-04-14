@@ -42,7 +42,7 @@ const visaData = [
   { name: "Study in Malaysia", path: "/studyabroad/malaysia", image: "/m.jpg" },
   { name: "Study in South Africa", path: "/studyabroad/southafrica", image: "/sa.webp" },
   { name: "Study in New Zealand", path: "/studyabroad/newzealand", image: "/nz.webp" },
-  { name: "Study in Philippiness", path: "/studyabroad/philippiness", image: "/p.jpg" },
+  { name: "Study in Philippiness", path: "/studyabroad/philippines", image: "/p.jpg" },
   { name: "Study in Poland", path: "/studyabroad/poland", image: "/pol.webp" },
   { name: "Study in Ireland", path: "/studyabroad/ireland", image: "/ir.jpg" },
   { name: "Study in Spain", path: "/studyabroad/spain", image: "/spa.avif" },

@@ -19,7 +19,7 @@ const metaData = {
   malaysia:{ },
   southafrica:{ },
   newzealand:{ },
-  philippiness:{ },
+  philippines:{ },
   poland:{ },
   ireland:{ },
   spain:{ },
