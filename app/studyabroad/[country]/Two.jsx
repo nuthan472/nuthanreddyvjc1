@@ -14,7 +14,7 @@ import HongStudyVisa from "./HongStudyVisa";
 import Germany from "./Germany";
 import Norway from "./Norway";
 import Poland from "./Poland";
-import Switerland from "./Switerland";
+import Switzerland from "./Switzerland";
 import Sweden from "./Sweden";
 import Spain from "./Spain";
 import Phillipiness from "./Phillipiness";
@@ -43,11 +43,11 @@ const visaData = [
   { name: "Study in South Africa", path: "/studyabroad/southafrica", image: "/sa.webp" },
   { name: "Study in New Zealand", path: "/studyabroad/newzealand", image: "/nz.webp" },
   { name: "Study in Philippiness", path: "/studyabroad/philippines", image: "/p.jpg" },
+  { name:" Study in Switzerland", path:"/studyabroad/switzerland"},
   { name: "Study in Poland", path: "/studyabroad/poland", image: "/pol.webp" },
   { name: "Study in Ireland", path: "/studyabroad/ireland", image: "/ir.jpg" },
   { name: "Study in Spain", path: "/studyabroad/spain", image: "/spa.avif" },
   { name: "Study in Netherlands", path: "/studyabroad/netherlands", image: "/net.webp" },
-  { name: "Study in Switzerland", path: "/studyabroad/switerland", image: "/sw.webp" },
   { name: "Study in Denmark", path: "/studyabroad/denmark", image: "/de.jpg" },
   { name: "Study in Dubai", path: "/studyabroad/dubai", image: "/du.webp" },
   { name: "Study in Luxembourg", path: "/studyabroad/luxembourg", image: "/lux.jpg" },
@@ -169,7 +169,7 @@ const Migrate = () => {
   ) : selectedVisa.name === "Study in Poland" ? (
     <Poland />
   ) : selectedVisa.name === "Study in Switzerland" ? (
-    <Switerland />
+    <Switzerland />
   ) : selectedVisa.name === "Study in Sweden" ? (
     <Sweden />
   ) : selectedVisa.name === "Study in Spain" ? (

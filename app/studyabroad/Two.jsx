@@ -28,7 +28,7 @@ const visaData = [
   { name: "Study in Ireland", path: "/studyabroad/ireland", image: "/ir.jpg" },
   { name: "Study in Spain", path: "/studyabroad/spain", image: "/spa.avif" },
   { name: "Study in Netherlands", path: "/studyabroad/netherlands", image: "/net.webp" },
-  { name: "Study in Switzerland", path: "/studyabroad/switerland", image: "/sw.webp" },
+  { name:" Study in Switzerland", path:"/studyabroad/switzerland"},
   { name: "Study in Denmark", path: "/studyabroad/denmark", image: "/de.jpg" },
   { name: "Study in Dubai", path: "/studyabroad/dubai", image: "/du.webp" },
   { name: "Study in Luxembourg", path: "/studyabroad/luxembourg", image: "/lux.jpg" },

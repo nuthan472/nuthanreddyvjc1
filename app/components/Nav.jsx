@@ -96,7 +96,7 @@ const Navbar = () => {
     { name: "Ireland", path: "/studyabroad/ireland" },
     { name: "Spain", path: "/studyabroad/spain" },
     { name: "Netherlands", path: "/studyabroad/netherlands" },
-    { name: "Switzerland", path: "/studyabroad/switerland" },
+    { name:" Switzerland", path:"/studyabroad/switzerland"},
     { name: "Denmark", path: "/studyabroad/denmark" },
     { name: "Dubai", path: "/studyabroad/dubai" },
     { name: "Luxembourg", path: "/studyabroad/luxembourg" },
